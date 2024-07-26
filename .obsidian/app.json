@@ -6,11 +6,8 @@
   "propertiesInDocument": "hidden",
   "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "attachmentFolderPath": "Automation, Scripts & Templates/Attachments",
-  "userIgnoreFilters": [
-    "Programming/Projects/",
-    "Personal/"
-  ],
+  "attachmentFolderPath": "Attachments, Scripts & Templates/Attachments",
+  "userIgnoreFilters": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
