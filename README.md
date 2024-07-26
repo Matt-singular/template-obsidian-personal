@@ -9,7 +9,7 @@ Have a look through each of the sections and use the example folders as a base p
 ###### 3. [Hobbies](Hobbies/README.md)
 ###### 4. [Personal Development](Personal%20Development/README.md)
 ###### 5. [Personal Documents](Personal%20Documents/README.md)
-###### 6. [README](Photos/README.md)
+###### 6. [Photos](Photos/README.md)
 
 ## <a href="https://obsidian.md"><img src="https://obsidian.md/images/2023-06-logo.png" width=60 height=30/></a>Get started with Obsidian
 Obsidian is a powerful note-taking and knowledge management application designed to help you capture, organise, and connect your thoughts and ideas.
