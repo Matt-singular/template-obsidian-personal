@@ -5,7 +5,7 @@ Have a look through each of the sections and use the example folders as a base p
 
 ## 🪧 Main Sections
 ###### 1. [Attachments, Scripts & Templates](Attachments,%20Scripts%20&%20Templates/README.md)
-###### 2. [Calendar Notes](Attachments,%20Scripts%20&%20Templates/Templates/Calendar%20Notes.md)
+###### 2. [Calendar & Notes](Calendar%20&%20Notes/README.md)
 ###### 3. [Hobbies](Hobbies/README.md)
 ###### 4. [Personal Development](Personal%20Development/README.md)
 ###### 5. [Personal Documents](Personal%20Documents/README.md)
