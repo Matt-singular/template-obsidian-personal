@@ -1,0 +1,1 @@
+#TODO define the consistent structure if there is one for your daily calendar notes

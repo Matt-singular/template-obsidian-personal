@@ -1,4 +1,4 @@
-This is the Attachments, Scripts & Templates section
+This is the **Attachments, Scripts & Templates** section
 
 It consists of three sub-sections
 
