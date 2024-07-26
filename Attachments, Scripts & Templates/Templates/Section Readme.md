@@ -1,3 +1,4 @@
+# Section
 This is the <name> section
 
 It consists of <number written out> sub-sections
